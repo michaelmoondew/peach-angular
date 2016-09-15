@@ -4,28 +4,6 @@ This branch contains the final/complete version (i.e. `step-10-finished`) of the
 [Material Start ES6 Tutorial](https://github.com/angular/material-start/tree/es6-tutorial) branch
 in this repository.
 
-There are many additional branches in this repository that you may find useful:
-
- - [`master`](https://github.com/angular/material-start/tree/master) (this branch) - A copy of the
- `es6` branch outlined below with additional notes about the available branches.
- - [`es5-tutorial`](https://github.com/angular/material-start/tree/es5-tutorial) - Step-by-step
- instructions that clearly demonstrate how the Starter application can be created in minutes using
- ES5. 
- - [`es5`](https://github.com/angular/material-start/tree/es5) - The final ES5 version which you
- complete in the last step of the tutorials above.
- - [`es6-tutorial`](https://github.com/angular/material-start/tree/es6-tutorial) - Step-by-step
- instructions that clearly demonstrate how the Starter application can be created in minutes using
- ES6. 
- - [`es6`](https://github.com/angular/material-start/tree/es6) - The final ES6 version which you
- complete in the last step of the tutorials above.
- - [`typescript`](https://github.com/angular/material-start/tree/typescript) - The final Starter
- Application built using Typescript.
- 
-> **Note:** We do not currently offer a `typescript-tutorial` branch as the steps are fairly similar
-  to the existing `es6-tutorial` branch.
-
-#### Purpose
-
 This project uses the latest master branch of Angular Material to build the application outlined
 below.
 
